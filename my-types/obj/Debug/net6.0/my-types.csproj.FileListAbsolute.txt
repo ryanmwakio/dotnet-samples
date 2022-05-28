@@ -1,0 +1,15 @@
+D:\coding\projects\c#\my-types\my-types\bin\Debug\net6.0\my-types.exe
+D:\coding\projects\c#\my-types\my-types\bin\Debug\net6.0\my-types.deps.json
+D:\coding\projects\c#\my-types\my-types\bin\Debug\net6.0\my-types.runtimeconfig.json
+D:\coding\projects\c#\my-types\my-types\bin\Debug\net6.0\my-types.dll
+D:\coding\projects\c#\my-types\my-types\bin\Debug\net6.0\my-types.pdb
+D:\coding\projects\c#\my-types\my-types\obj\Debug\net6.0\my-types.csproj.AssemblyReference.cache
+D:\coding\projects\c#\my-types\my-types\obj\Debug\net6.0\my-types.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\projects\c#\my-types\my-types\obj\Debug\net6.0\my-types.AssemblyInfoInputs.cache
+D:\coding\projects\c#\my-types\my-types\obj\Debug\net6.0\my-types.AssemblyInfo.cs
+D:\coding\projects\c#\my-types\my-types\obj\Debug\net6.0\my-types.csproj.CoreCompileInputs.cache
+D:\coding\projects\c#\my-types\my-types\obj\Debug\net6.0\my-types.dll
+D:\coding\projects\c#\my-types\my-types\obj\Debug\net6.0\refint\my-types.dll
+D:\coding\projects\c#\my-types\my-types\obj\Debug\net6.0\my-types.pdb
+D:\coding\projects\c#\my-types\my-types\obj\Debug\net6.0\my-types.genruntimeconfig.cache
+D:\coding\projects\c#\my-types\my-types\obj\Debug\net6.0\ref\my-types.dll
